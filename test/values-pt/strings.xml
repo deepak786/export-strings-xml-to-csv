@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="districtHint">Bairro</string>
+    <string name="cityHint">Cidade</string>
+    <string name="addressHint">Endereço</string>
+    <string name="clientAdditionalInfo">Informações adicionais (endereço do cliente)</string>
+    <string name="editClientInfoInJob">Clique aqui para editar o cliente (ex.: endereço)</string>
+</resources>

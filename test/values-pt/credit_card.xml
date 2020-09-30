@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="bt_cvv">CVV</string>
+    <string name="bt_cvc">CVC</string>
+    <string name="bt_cid">CID</string>
+    <string name="bt_cvn">CVN</string>
+    <string name="bt_cve">CVE</string>
+
+    <string name="bt_card_number_required">O número de cartão é obrigatório.</string>
+    <string name="bt_card_number_invalid">O número do cartão é inválido.</string>
+    <string name="bt_cvv_required">%s é obrigatório</string>
+    <string name="bt_cvv_invalid">%s é inválido</string>
+    <string name="bt_expiration_required">A data de validade é obrigatória.</string>
+    <string name="bt_expiration_invalid">A data de validade é inválida.</string>
+    <string name="bt_cardholder_name_required">O nome do titular do cartão é obrigatório</string>
+</resources>

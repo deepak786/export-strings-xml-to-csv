@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="districtHint">Freguesia</string>
+    <string name="cityHint">Concelho</string>
+    <string name="addressHint">Morada</string>
+    <string name="clientAdditionalInfo">Informações adicionais (morada do cliente)</string>
+    <string name="editClientInfoInJob">Clique aqui para editar o cliente (ex.: morada)</string>
+</resources>
