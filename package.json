@@ -1,0 +1,15 @@
+{
+  "name": "xml_strings_to_csv",
+  "version": "1.0.0",
+  "description": "export the strings in the Android Project to CSV files",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "xml2json": "^0.12.0"
+  }
+}
